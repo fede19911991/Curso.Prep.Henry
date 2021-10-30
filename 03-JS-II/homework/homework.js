@@ -203,7 +203,6 @@ function tieneTresDigitos(numero){
     return true;
   }
   return false;
-  
 }
 
 function doWhile(numero) {
